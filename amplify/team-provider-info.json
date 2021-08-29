@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-lernu-staging-25742-authRole",
+      "UnauthRoleArn": "arn:aws:iam::585417648171:role/amplify-lernu-staging-25742-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::585417648171:role/amplify-lernu-staging-25742-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-lernu-staging-25742-deployment",
+      "UnauthRoleName": "amplify-lernu-staging-25742-unauthRole",
+      "StackName": "amplify-lernu-staging-25742",
+      "StackId": "arn:aws:cloudformation:us-east-2:585417648171:stack/amplify-lernu-staging-25742/61c3e560-0619-11ec-b579-06b90b3b7042",
+      "AmplifyAppId": "d3qky8jr54yszi"
+    },
+    "categories": {
+      "auth": {
+        "lernu": {}
+      }
+    }
+  }
+}
